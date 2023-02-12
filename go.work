@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./chat_client
+	./chat_server
+)
